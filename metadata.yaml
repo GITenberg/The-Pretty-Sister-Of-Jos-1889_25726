@@ -1,0 +1,42 @@
+_repo: The-Pretty-Sister-Of-Jos-1889_25726
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Reinhart, Charles Stanley
+    aliases:
+    - Reinhart, Charles S.
+    - Reinhart, C. S. (Charles Stanley)
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '31538'
+    url: http://www.gutenberg.org/2009/agents/31538
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Hodgson, Frances Eliza
+    - Townesend, Frances Eliza Hodgson Burnett
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: ''
+gutenberg_issued: '2008-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+title: 'The Pretty Sister Of José
+
+  1889'
+url: http://www.gutenberg.org/ebooks/25726
